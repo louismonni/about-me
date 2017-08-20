@@ -1,0 +1,26 @@
+body {
+    font-family: "Courier New";
+    background-color: #3f63ff;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+ul {
+    padding: 1rem 0rem;
+}
+
+li {
+    background-color: black;
+    list-style-type: none;
+    display: inline;
+    padding: 1rem;
+}
+
+a {
+    color: lavender;
+    padding: 0.3rem;
+}
+

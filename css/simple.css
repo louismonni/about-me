@@ -1,0 +1,26 @@
+body {
+    font-family: "Courier New";
+    background-image: url(https://wallpaperscraft.com/image/ocean_sand_beach_90883_1920x1200.jpg);
+}
+
+div {
+    width: 16rem;
+    margin: 0rem auto;
+}
+
+h1 {
+    color: darkgoldenrod;
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    margin: 3rem 0;
+}
+
+h2 {
+    font-size: 1.2rem;
+    margin: 3rem 0 1rem 0;
+}
+
+p, ul {
+    margin: 1rem 0;
+}
